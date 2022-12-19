@@ -24,6 +24,16 @@
     "node": "10.X"
   }
 },
+
+{
+    "name": "myapp",
+    "version": "1.0.0",
+    "description": "a really cool app",
+    "engines": {
+        "node": "10.x",
+        "npm": "*"
+    },
+
   
   "license": "Apache",
   "private": true,
