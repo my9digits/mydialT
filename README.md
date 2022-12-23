@@ -165,3 +165,7 @@ This project is open source and welcomes contributions. All contributions are su
 ## License
 
 [Apache 2.0](https://opensource.org/licenses/Apache-2.0)
+
+## How to configure twilio sip trunk in freepbx
+
+- [Asteriskneeds.com](https://asteriskneeds.com/twilio-freepbx/)
