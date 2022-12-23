@@ -168,4 +168,8 @@ This project is open source and welcomes contributions. All contributions are su
 
 ## How to configure twilio sip trunk in freepbx
 
-- [Asteriskneeds.com](https://asteriskneeds.com/twilio-freepbx/)
+- [How to configure twilio sip trunk in freepbx](https://asteriskneeds.com/twilio-freepbx/)
+
+## how to configure twilio sms API
+
+- [how to configure twilio sms API](https://ajit.blog/2022/12/how-to-configure-twilio-sms-api.html)
